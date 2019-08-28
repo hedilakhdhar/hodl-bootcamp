@@ -106,7 +106,8 @@ After sending we see that our "clean" labeled change output was spent and the "d
 You wallet file should be found in:
 - Windows: %APPDATA%\Electrum\testnet\wallets\hodl_bootcamp_first_wallet
     - double-click and open with notepad
-- Mac: FIXME
+- Mac: Open Finder
+    - Go to folder (shift+cmd+G) and type ~/.electrum/testnet/wallets/hodl_bootcamp_first_wallet
 - Linux: FIXME
 
 This is the contents of your wallet file. It contains some extremely sensitive data. This part is the worst:
